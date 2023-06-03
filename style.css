@@ -1,0 +1,100 @@
+*{
+    font-size: 21px;
+}
+body {
+    font-family: sans-serif;
+}
+.shapka{
+    border-radius: 20px;
+    border: solid grey 1px;
+    background-color: lightblue;
+    padding: 10px 10px 8px 10px;
+}
+button{
+    background-color: white;
+    border: none;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+
+}
+a{
+    text-decoration: none;    
+}
+.zagolovok{
+    border-radius: 20px;
+    border: solid grey 1px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+    color: darkblue;
+    font-weight: 100;
+}
+nav{
+    margin-top: 20px;
+}
+
+nav a{
+    margin: 30px;
+    font-style: italic;
+    text-decoration: none;
+    padding: 3px 10px;
+    border-radius: 15px;
+    background-color: darkblue;
+    color: white;
+    border: solid darkblue 2px;
+}
+footer{
+    background-color: rgb(239, 170, 232);
+    padding: 10px;
+    border-radius: 0 10px 10px 0 ;
+}
+footer p{
+    background-color: white;
+    padding: 5px ;
+}
+#contacts{
+    padding-left: 20px;
+    font-weight: 300;
+}
+.popular{
+    box-sizing: border-box;
+    border: solid darkblue 2px;
+    background-color: white;
+    color: darkblue;
+}
+.fireworks{
+    border: 3px solid darkblue;
+    border-radius: 20px;
+    padding: 10px;
+}
+#discount{
+    color: blue;
+    padding-left: 10px;
+}
+nav{
+    padding-left: 10px;
+}
+.picture{
+    padding: 10px;
+    border: solid lightblue 1px;
+    border-radius: 20px;
+}
+#delivery{
+    color: blue;
+}
+.contacts-one{
+    border: 3px solid darkblue;
+    color: darkblue;
+    padding: 7px;
+}
+#wholesale{
+    color: blue;
+}
+#about_us{
+    color: blue;
+}
+.bmw{
+    border: 3px solid darkblue;
+    color: darkblue;
+    padding: 7px;
+}
